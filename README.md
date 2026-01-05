@@ -132,6 +132,6 @@ The dashboard includes:
 - Precision: Minimizes false positive retention campaigns
 - Recall: Maximizes identification of at-risk customers
 
-## 📬 Contact
+## Contact ⋆˙⟡
 
-🔗 [LinkedIn](https://www.linkedin.com/in/vidhi-parmar1/) | [Email](vidhi30th@gmail.com) 
+🔗 [LinkedIn](https://www.linkedin.com/in/vidhi-parmar1/) | [Email](vidhi30th@gmail.com) | [Website](https://readymag.website/5667522/)
